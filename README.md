@@ -2,6 +2,7 @@
 <H3>Problem Statement:-To develop a robot to be able to type a given alpha-numeric sequence autonomously.There will be two types of keyboards</H3>
 
 <H2>Key board specification:</H2>
+<br>
 <B>Type 1:<B>
 
 <li>Each key is of size (5cmX5cm)</li>
@@ -9,7 +10,7 @@
 <li>There would be 16 total keys in the keyboard</li>
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
-
+<br>
 Type 2:
 
 <li>Each key is of size (4cmX4cm)</li>
@@ -17,9 +18,11 @@ Type 2:
 <li>There would be 24 total keys in the keyboard</li>
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
+ <br>
 Solution
+  <br>
 Steps Involved:
-
+<br>
 Computer Vision
 <li>Detecting all the contours in the image</li>
 <li>Finding the area range in which our keys lie</li>
@@ -27,6 +30,7 @@ Computer Vision
 <li>processing each key and sending it for recognition</li>
 <li>Scaling the pixel coordinates to the world coordinates</li>
 <li>Extracting coordinates of our sequence and converting to G-code</li>
+  <br>
 Arduino
 
 <li>Receiving the coordinates and storing in a .txt file</li>
