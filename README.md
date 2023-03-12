@@ -19,7 +19,7 @@
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
  <br>
-<H4>Solution</H4>
+<H3>Solution</H3>
   <br>
 <H4>Steps Involved:</H4>
 <br>
