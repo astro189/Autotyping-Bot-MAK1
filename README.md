@@ -3,7 +3,7 @@
 
 <H2>Key board specification:</H2>
 <br>
-<H4>Type 1:<H4>
+<H4>Type 1:</H4>
 
 <li>Each key is of size (5cmX5cm)</li>
 <li>There will be a 1cm gap in between the keys</li>
@@ -11,7 +11,7 @@
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
 <br>
-<H4>Type 2:<H4>
+<H4>Type 2:</H4>
 
 <li>Each key is of size (4cmX4cm)</li>
 <li>There will be a 1cm gap in between the keys</li>
@@ -19,11 +19,11 @@
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
  <br>
-<H4>Solution<H4>
+<H4>Solution</H4>
   <br>
-<H4>Steps Involved:<H4>
+<H4>Steps Involved:</H4>
 <br>
-<H4>Computer Vision<H4>
+<H4>Computer Vision</H4>
 <li>Detecting all the contours in the image</li>
 <li>Finding the area range in which our keys lie</li>
 <li>Cropping out each key</li>
