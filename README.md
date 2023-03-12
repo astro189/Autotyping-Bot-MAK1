@@ -3,7 +3,7 @@
 
 <H2>Key board specification:</H2>
 <br>
-<B>Type 1:<B>
+<H4>Type 1:<H4>
 
 <li>Each key is of size (5cmX5cm)</li>
 <li>There will be a 1cm gap in between the keys</li>
@@ -11,7 +11,7 @@
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
 <br>
-Type 2:
+<H4>Type 2:<H4>
 
 <li>Each key is of size (4cmX4cm)</li>
 <li>There will be a 1cm gap in between the keys</li>
@@ -19,11 +19,11 @@ Type 2:
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
  <br>
-Solution
+<H4>Solution<H4>
   <br>
-Steps Involved:
+<H4>Steps Involved:<H4>
 <br>
-Computer Vision
+<H4>Computer Vision<H4>
 <li>Detecting all the contours in the image</li>
 <li>Finding the area range in which our keys lie</li>
 <li>Cropping out each key</li>
@@ -31,7 +31,7 @@ Computer Vision
 <li>Scaling the pixel coordinates to the world coordinates</li>
 <li>Extracting coordinates of our sequence and converting to G-code</li>
   <br>
-Arduino
+<H4>Arduino<H4>
 
 <li>Receiving the coordinates and storing in a .txt file</li>
 <li>Running a loop to execute all the lines of the text file</li>
