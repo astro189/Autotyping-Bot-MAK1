@@ -19,10 +19,9 @@
 <li>The keys are black in color with the character in white color</li>
 <li>The gaps can be of any color</li>
  <br>
-<H3>Solution</H3>
+<H2>Solution</H2>
   <br>
 <H4>Steps Involved:</H4>
-<br>
 <H4>Computer Vision</H4>
 <li>Detecting all the contours in the image</li>
 <li>Finding the area range in which our keys lie</li>
