@@ -21,6 +21,10 @@
  <br>
 <H2>Solution</H2>
   <br>
+
+https://user-images.githubusercontent.com/97799598/227696134-cd46ca04-2180-44d1-9945-973e23f56c74.mp4
+
+
 <H4>Steps Involved:</H4>
 <H4>Computer Vision</H4>
 <li>Detecting all the contours in the image</li>
