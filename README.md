@@ -1,4 +1,4 @@
-# Typing-Robot
+# MAK-1 Typing-bot
 <H4>Problem Statement:</H4>
  To develop a robot to be able to type a given alpha-numeric sequence autonomously.There will be two types of keyboards
 
