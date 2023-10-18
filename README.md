@@ -1,8 +1,9 @@
 # Typing-Robot
-<H3>Problem Statement:-To develop a robot to be able to type a given alpha-numeric sequence autonomously.There will be two types of keyboards</H3>
+<H4>Problem Statement:</H4>
+ To develop a robot to be able to type a given alpha-numeric sequence autonomously.There will be two types of keyboards
 
-<H2>Key board specification:</H2>
-<br>
+<H3>Key board specification:</H3>
+
 <H4>Type 1:</H4>
 
 <li>Each key is of size (5cmX5cm)</li>
@@ -33,8 +34,13 @@ https://user-images.githubusercontent.com/97799598/227696134-cd46ca04-2180-44d1-
 <li>processing each key and sending it for recognition</li>
 <li>Scaling the pixel coordinates to the world coordinates</li>
 <li>Extracting coordinates of our sequence and converting to G-code</li>
+<br>
+<p align="center">
+<img src="https://github.com/astro189/Autotyping-MAK1/blob/main/ImageTest/Flowchart.png",alt="Flowchart" width="600"></img>
+</p>
+<p align="center"><b>Task execution flow</b></p>
   <br>
-<H4>Arduino<H4>
+<H4>Arduino</H4>
 
 <li>Receiving the coordinates and storing in a .txt file</li>
 <li>Running a loop to execute all the lines of the text file</li>
