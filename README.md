@@ -1,4 +1,5 @@
 # MAK-1 Typing-bot
+https://user-images.githubusercontent.com/97799598/227696134-cd46ca04-2180-44d1-9945-973e23f56c74.mp4
 <H4>Problem Statement:</H4>
  To develop a robot to be able to type a given alpha-numeric sequence autonomously.There will be two types of keyboards
 
@@ -22,8 +23,6 @@
  <br>
 <H2>Solution</H2>
   <br>
-
-https://user-images.githubusercontent.com/97799598/227696134-cd46ca04-2180-44d1-9945-973e23f56c74.mp4
 
 
 <H4>Steps Involved:</H4>
